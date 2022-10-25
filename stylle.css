@@ -1,0 +1,109 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --bg-color-darkmode: black;
+    --text-color-darkmode: white;
+    --button-color: #42D3FF;
+}
+
+main {
+    min-height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12rem;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+
+.timer {
+    font-size: 7.9rem;
+    display: flex;
+    margin-bottom: 3rem;
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+div.cards-sounds {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.card {
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    gap: 2rem;
+    
+    background: #E1E1E6;
+    border-radius: 1.5rem;
+    width: 8.62rem;
+    height: 9.5rem;
+}
+
+input {
+    all: unset;
+    width: 90px;
+    height: 4px;
+    background:black;
+    border-radius: 6px;
+    margin: 1rem;
+}
+
+.inputColor, .inputColorBall::-webkit-slider-thumb {
+    background: white;
+}
+
+input::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    background:#323238;
+}
+
+div.color-mode {
+    position: absolute;
+    top: 3.75rem;
+    right: 3.75rem;
+}
+
+.hide {
+    display: none;
+}
+
+.bgCard {
+    background: #02799D;
+}
+
+.bgCardDarkMode {
+    background: #29292E;
+}
+
+.bgCardDarkModeClick {
+    background: #0A3442;
+}
+
+.fillColor {
+    fill:white;
+}
+
+.darkMode {
+    background-color: black;
+    color: white;
+}
