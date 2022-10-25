@@ -1,2 +1,2 @@
-# timerDarkMode
+# Temporizador com Modo Escuro
  
