@@ -1,6 +1,6 @@
 # Temporizador com Modo Escuro
  
-Temporizador com modo escuro e cards com sons ambientes e controlador de volume que podem ser ativados com um clique para ajudar com o foco no trabalho ou nos estudos:
+Temporizador com modo escuro e cards com sons ambientes e controlador de volume que podem ser ativados com um clique, e aviso sonoro ao acabar o tempo para te ajudar com o foco no trabalho ou nos estudos:
 
 <img src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/Timer01.png">
  
