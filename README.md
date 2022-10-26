@@ -6,16 +6,16 @@ Temporizador com modo escuro e cards com sons ambientes e controlador de volume 
  
 Ao selecionar o modo escuro toda a aplicação muda de cor, mas suas funcionalidades permanecem:
 
-<img src="./projeto/Timer02">
+<img src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/Timer02.png">
 
 Pode selecionar mais de um card para fazer uma mistura com os sons tornando o ambiente mais agradável, e sendo possível adicionar ou remover tempo na aplicação, e se precisar pode pausar o timer, ou clicar no stop para que ele volte os segundos e reset para o minuto atual:
 
-<img src="./projeto/Timer03">
+<img src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/Timer03.png">
 
 Timer desenvolvido para que não haja erros com a alteração do modo e funcione perfeitamente no modo escuro e modo claro:
 
-<img src="./projeto/Timer04">
+<img src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/Timer04.png">
 
-[![Video do projeto](projeto/FocusTimer.mp4)
+[![Video do projeto](https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/FocusTimer.mp4)
 
 Projeto desenvolvido com todos os conhecimentos adquiridos no Programa Explorer da Rockeatseat e outras fontes como o MDN Web Docs e StackOverFlow.
