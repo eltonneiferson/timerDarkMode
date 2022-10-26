@@ -16,6 +16,6 @@ Timer desenvolvido para que não haja erros com a alteração do modo e funcione
 
 <img src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/Timer04.png">
 
-[![Video do projeto](https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/FocusTimer.mp4)
+<video src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/FocusTimer.mp4"></video>
 
 Projeto desenvolvido com todos os conhecimentos adquiridos no Programa Explorer da Rockeatseat e outras fontes como o MDN Web Docs e StackOverFlow.
