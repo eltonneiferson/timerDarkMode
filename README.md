@@ -2,7 +2,7 @@
  
 Temporizador com modo escuro e cards com sons ambientes e controlador de volume que podem ser ativados com um clique para ajudar com o foco no trabalho ou nos estudos:
 
-<img src="./projeto/Timer01">
+<img src="https://github.com/eltonneiferson/timerDarkMode/blob/main/projeto/Timer01.png">
  
 Ao selecionar o modo escuro toda a aplicação muda de cor, mas suas funcionalidades permanecem:
 
